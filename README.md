@@ -16,6 +16,7 @@ counter(); // => 3
 
 ```
 
+
 ## Exercice 2 — Compteur avec valeur de départ personnalisée
 
 Modifie la fonction  pour qu’au lieu de commencer toujours à 0, elle puisse commencer à partir d’un nombre donné.
